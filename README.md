@@ -1,2 +1,2 @@
 # school-it-1025
-Visualizing logic.
+This is my repository for IT-1025.
